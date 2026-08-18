@@ -136,7 +136,7 @@ The project includes visualizations for:
 
 ## Project Files
 
-- `Muhammad_Ismail_Shah_Task1_EDA_Retail_Sales.ipynb`
+- `Task1_EDA_Retail_Sales.ipynb`
 - `README.md`
 
 ## Conclusion
